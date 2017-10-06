@@ -51,7 +51,7 @@ The mobile layout of the site should look like this:
 
 ![Mobile Page](/public/assets/images/mobile.JPG)
 
-**(top part of page; the rest of the page is visible if one keeps scrolling)**
+*(top part of page; the rest of the page is visible if one keeps scrolling)*
 
 ## Future Plans for Improvement
 * Add individual user accounts/logins.

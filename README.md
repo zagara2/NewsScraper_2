@@ -35,6 +35,8 @@ Plans to test on Safari upcoming.
 
 ### Screen Compatibility Tests
 
+The site is best viewed on a small to moderately large desktop or notebook (between 1280x800 and 1680x1050), but looks good on essentially any modern device's screen resolution. This includes both a 10" and 12" Netbook, a 13" and 15" notebook, 19"-24" desktops, Kindle Fire, Asus Nexus 7, iPad and iPad Pro, Samsung Galaxy tab, Microsoft Surface Pro, iPhone 3 and up (including iPhone 6-7 plus), Galaxy S2 and up, LG G 3-5, and 480p, 720p and 1080p televisions. 
+
 When loaded properly on a desktop, notebook, or tablet, the homepage should look like this:
 
 ![Homepage](/public/assets/images/mongoscraper.JPG)
@@ -45,11 +47,9 @@ The "saved" page should look like this:
 
 The mobile layout of the site should look like this:
 
-![Mobile Page](/assets/images/mobile.JPG)
+![Mobile Page](/public/assets/images/mobile.JPG)
 
 **(top part of page; the rest of the page is visible if one keeps scrolling)**
-
-The site is best viewed on a large desktop (1680x1050 and up), but looks good on essentially any modern device's screen resolution. This includes both a 10" and 12" Netbook, a 13" and 15" notebook, 19"-24" desktops, Kindle Fire, Asus Nexus 7, iPad and iPad Pro, Samsung Galaxy tab, Microsoft Surface Pro, iPhone 3 and up (including iPhone 6-7 plus), Galaxy S2 and up, LG G 3-5, and 480p, 720p and 1080p televisions. 
 
 ## Future Plans for Improvement
 * Add individual user accounts/logins.

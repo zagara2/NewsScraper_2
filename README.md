@@ -55,6 +55,6 @@ The mobile layout of the site should look like this:
 
 ## Future Plans for Improvement
 * Add individual user accounts/logins.
-* When writing a note for an article, change the heading of the box that pops up so that it has the name of the article and not the article's ID. 
+* When writing a note for an article, change the heading of the box that pops up so that it has the name of the article. 
 * Modal popup styling tweaks (various things related to box sizing).
 

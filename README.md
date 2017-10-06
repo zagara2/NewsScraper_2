@@ -41,6 +41,8 @@ When loaded properly on a desktop, notebook, or tablet, the homepage should look
 
 ![Homepage](/public/assets/images/mongoscraper.JPG)
 
+**(top part of page; rest of page is visible if one keeps scrolling)**
+
 The "saved" page should look like this:
 
 ![Saved Page](/public/assets/images/savedpage.JPG)
